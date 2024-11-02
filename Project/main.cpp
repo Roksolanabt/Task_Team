@@ -9,6 +9,10 @@ void displayMenu() {
     cout << "4. Exit\n";
 }
 
+int multiply(int a, int b) {
+    return a * b;
+}
+
 
 int main() {
 
